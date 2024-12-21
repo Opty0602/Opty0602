@@ -50,8 +50,8 @@
 ---
 
 ## 📜 Certifications  
-- **Deep Learning**: NPTEL - IIT Ropar  
-- **Reinforcement Learning**: NPTEL - IIT Madras  
+- **Deep Learning**: NPTEL - IIT Ropar(GLOBAL CERTIFICATE, Score:84%)  
+- **Reinforcement Learning**: NPTEL - IIT Madras (GLOBAL CERTIFICATE, Score:67%)
 - **Python**: Cisco Network Academy  
 - **Advanced C++**: Cisco Network Academy  
 - **AWS Cloud Foundations**: AWS Academy  
