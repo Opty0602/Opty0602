@@ -46,6 +46,9 @@
 - Conducted a comparative study using models like Dlib, Haar Cascade, and MediaPipe.  
 - Evaluated accuracy, speed, and robustness across datasets for real-world applications.  
 
+### 🧠 [Question Answering RAG agent](https://github.com/Opty0602/QArag_Agent)
+- Built a QnA Rag agent which is trained on userspecific documents and provides answer to the context.
+- It uses ensamble retrival mechanism along with globally recognised vectore store and embedder.
 
 ---
 
