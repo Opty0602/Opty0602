@@ -34,7 +34,7 @@
 - Developed an AI model to compose original melodies using LSTMs and GRUs.  
 - Explored innovative architectures to refine music generation with TensorFlow and the `music21` library.  
 
-### 📈 [Deep Reinforcement Learning Stock Trading Agent](https://github.com/Opty0602/drl-stock-trading-agent)  
+### 📈 [Deep Reinforcement Learning Stock Trading Agent](https://github.com/Opty0602/TradingBot_RL)  
 - Built an automated trading agent leveraging DRL models like PPO, SAC, and TD3.  
 - Validated performance using historical data from Yahoo Finance, outperforming human traders.  
 
