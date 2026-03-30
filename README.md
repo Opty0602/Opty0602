@@ -6,18 +6,21 @@
 
 💡 I'm a passionate tech enthusiast who thrives on building innovative solutions using Deep Learning frameworks and AI. With a strong academic foundation, I've gained hands-on experience through diverse projects in AI, Computer Vision, and Reinforcement Learning.  
 
+I am currently working as GenAI developer @ TCS, where i am responsible for building Llm pipelines for reliable solutions and managing a team of fresher group of genAI developers.
 ---
 
 ## 🔧 Tech Stack  
 ### **Programming Languages**  
 - Python  
 - C++  
-- SQL (Intermediate)  
+- SQL (Intermediate)
+
 
 ### **Frameworks and Libraries**  
 - TensorFlow, Keras, PyTorch  
 - NumPy, Pandas, OpenCV, FAISS  
 - Stable baselines3, langChain_community
+- Google ADK, Langgraph
 
 ### **Tools**  
 - Jupyter Notebook  
@@ -58,7 +61,8 @@
 - **Python**: Cisco Network Academy  
 - **Advanced C++**: Cisco Network Academy  
 - **AWS Cloud Foundations**: AWS Academy  
-- **Building RAG Agents with LLM**: NVIDIA  
+- **Building RAG Agents with LLM**: NVIDIA
+- Multiple **google cloud certifications on GenAi and VertexAI**, can be found in my [LinkedIn](https://www.linkedin.com/in/piyushnankani0602)
 
 ---
 
