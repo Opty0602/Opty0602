@@ -32,7 +32,10 @@ I am currently working as GenAI developer @ TCS, where i am responsible for buil
 ---
 
 ## 🛠️ Projects  
-
+### 🤖 [Manager-Orchestrated Multi-Agent System](https://github.com/Opty0602/agentic_orchestrator_adk)
+- **Autonomous Self-Healing RAG:** Developed a multi-agent "Manager-Worker" architecture that uses iterative validation loops to dynamically expand semantic search scope (+2 results per cycle) when confidence thresholds aren't met, ensuring high-accuracy incident resolution.
+- **Governed Text-to-SQL & HILT:** Engineered a secure analytics pipeline that generates SQL from metadata only—keeping raw data out of the LLM context—integrated with Human-in-the-Loop (HILT) guardrails for final solution validation and automated knowledge-base generation.
+  
 ### 🎶 [Automated Music Generation](https://github.com/Opty0602/MelodyGeneration)  
 - Developed an AI model to compose original melodies using LSTMs and GRUs.  
 - Explored innovative architectures to refine music generation with TensorFlow and the `music21` library.  
