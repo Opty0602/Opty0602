@@ -2,7 +2,7 @@
 # Hi there! 👋 I'm Piyush Nankani  
 
 ## 🚀 About Me  
-🎓 **Recent Graduate**: I completed my B.Tech in Computer Science with a **specialization in Artificial Intelligence and Machine Learning** from Gyan Ganga Institute of Technology and Sciences, scoring a CGPA of 8.95.  
+🎓 **AIML Graduate**: I completed my B.Tech in Computer Science with a **specialization in Artificial Intelligence and Machine Learning** from Gyan Ganga Institute of Technology and Sciences, scoring a CGPA of 8.95.  
 
 💡 I'm a passionate tech enthusiast who thrives on building innovative solutions using Deep Learning frameworks and AI. With a strong academic foundation, I've gained hands-on experience through diverse projects in AI, Computer Vision, and Reinforcement Learning.  
 
